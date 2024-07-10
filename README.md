@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm salvador Manchon</h1>
 <h3 align="center">A passionate backend and fronted developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salvamanchon&label=Profile%20views&color=0e75b6&style=flat" alt="salvamanchon" /> <img src ![foto para git](https://github.com/Salvamanchon/S_Manchon/assets/168374628/51352abc-ecdd-4f89-a932-17ef95564f13)</img> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salvamanchon&label=Profile%20views&color=0e75b6&style=flat" alt="salvamanchon" /> <img src= " ![foto para git](https://github.com/Salvamanchon/S_Manchon/assets/168374628/51352abc-ecdd-4f89-a932-17ef95564f13)" /img> </p>
 
 - 📄 Know about my experiences [I am a junior developer who is starting to embark on the path of this exciting world of programming.](I am a junior developer who is starting to embark on the path of this exciting world of programming.)
 
