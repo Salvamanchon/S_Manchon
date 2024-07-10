@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm salvador Manchon</h1>
 <h3 align="center">Apassionate backend and fronted developer from Spain</h3>
-![foto para git](https://github.com/Salvamanchon/S_Manchon/assets/168374628/04d9da48-4f1a-4f96-9c87-cbd3c055faa7.png) 
+
 <p align="center"> <img src= " https://github.com/Salvamanchon/S_Manchon/assets/168374628/51352abc-ecdd-4f89-a932-17ef95564f13.png" alt="salvamanchon" /> </p>
 
 - 📄 Know about my experiences [I am a junior developer who is starting to embark on the path of this exciting world of programming.](I am a junior developer who is starting to embark on the path of this exciting world of programming.)
@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvamanchon&" alt="salvamanchon" /></p>
 
-
+![foto para git](https://github.com/Salvamanchon/S_Manchon/assets/168374628/04d9da48-4f1a-4f96-9c87-cbd3c055faa7.png) 
